@@ -1,0 +1,19 @@
+{
+  "mesaj_codat": {
+    "straturi": [
+      "url",
+      "base64",
+      "hex"
+    ],
+    "rezultat": "Securitatea incepe cu curiozitatea"
+  },
+  "xor": {
+    "cheie": 42,
+    "text": "Forensics dezvaluie ce ochiul nu vede"
+  },
+  "hash": {
+    "algoritm": "md5",
+    "hash": "8287458823facb8ff918dbfabcd22ccb",
+    "parola": "parola"
+  }
+}

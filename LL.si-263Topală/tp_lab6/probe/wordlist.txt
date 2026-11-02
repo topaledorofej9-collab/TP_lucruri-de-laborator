@@ -1,0 +1,15 @@
+test
+password
+123456
+admin
+root
+parola
+securitate
+qwerty
+letmein
+welcome
+monkey
+dragon
+master
+login
+abc123
